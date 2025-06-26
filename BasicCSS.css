@@ -1,0 +1,27 @@
+table{
+    border: solid 2px ;
+    border-collapse: collapse;
+}
+ td{
+    border: solid 2px ;
+    border-collapse: collapse;
+}
+th{
+    border: solid 2px ;
+    border-collapse: collapse;
+}
+#redo {
+    color: red;
+    border: solid rgba(0, 0, 0, 0.815);
+}
+#zinc{
+    color: brown;
+    border: solid  rgba(0, 0, 0, 0.815);
+
+}
+#it{
+    color: blue;
+}
+.at{
+    color: red;
+}
