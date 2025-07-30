@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#print{
+    border: solid 2px;
+    width: 400px;
+    height: 200px;
+}
+#same{
+    padding: 1rem;
+    background-color: aquamarine;
+    position: fixed;
+    top: 5rem;
+    left: 15rem;
+}
+#code{
+    background-color: pink;
+    position: sticky;
+    padding: 1rem;
+    top: 0px;
+}
+#sin{
+    background-color: brown;
+    padding: 1rem;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+}

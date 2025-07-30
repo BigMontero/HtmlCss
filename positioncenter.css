@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#sky{
+    background-image: url("images2/pexels.jpg");
+    min-width: 100vw;
+    min-height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#dream{
+    border: solid 2px;
+    margin: 0 auto;
+    padding: 10px;
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}

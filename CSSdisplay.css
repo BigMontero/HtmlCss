@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#milk{
+    border: solid 2px;
+    width: 70%;
+    min-height: 75vh;
+    margin: auto;
+    display: flex;
+}
+.box{
+    border: solid 2px;
+    width: 100px;
+    height: 100px;
+    flex-grow: 1;
+    padding: 10%;
+}
+#jam{
+    display: flex;
+    flex-grow: 1;
+}
+#css{
+    display: flex;
+    flex-grow: 2;
+    text-align: center;
+}
